@@ -44,3 +44,4 @@ xlrd==0.9.4
 xlwt==1.3.0
 xmltodict==0.10.1
 werkzeug
+rsa>=4.7 # not directly required, pinned by Snyk to avoid a vulnerability
