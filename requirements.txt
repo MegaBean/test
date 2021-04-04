@@ -1,4 +1,4 @@
-ansible==1.5.4
+ansible==2.6.18
 anyjson==0.3.3
 awscli==1.15.40
 Babel==2.2.0
