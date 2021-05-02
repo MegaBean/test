@@ -1,7 +1,7 @@
 ansible==1.5.4
 anyjson==0.3.3
 awscli==1.15.40
-Babel==2.2.0
+Babel==2.9.1
 boto3==1.7.40
 botocore==1.10.40
 dicttoxml==1.7.4
